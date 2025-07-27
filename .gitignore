@@ -1,3 +1,4 @@
 node_modules/
 .next/
 *.node
+node_modules/@next

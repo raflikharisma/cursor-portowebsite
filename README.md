@@ -1,4 +1,4 @@
-# Rafli's Portfolio Website
+# Rafli Kharisma Akbar Portfolio Website using cursor
 
 A modern, responsive portfolio website built with Next.js, Tailwind CSS, and TypeScript.
 
